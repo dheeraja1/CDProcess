@@ -9,7 +9,7 @@ node
    stage ('site')
    {
    bat 'mvn site'
-   }
+   }  
    
 }  
  
